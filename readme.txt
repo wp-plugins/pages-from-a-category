@@ -5,6 +5,7 @@ Tags: pages
 Requires at least: 3.0.0
 Tested up to: 3.3.2
 Stable tag: 1.0
+License: GPLv2 or later
 
 == Description ==
 
@@ -32,6 +33,9 @@ Unzip the plugin and copy the 3mergingdesign folder to your wp-content/plugins f
 == Frequently Asked Questions ==
 
 
+
+None
+
 == Screenshots ==
 
 1. The configuration screen
@@ -40,3 +44,9 @@ Unzip the plugin and copy the 3mergingdesign folder to your wp-content/plugins f
 
 = 1.0 =
 * First stable version.
+
+== Upgrade Notice ==
+
+
+
+None
